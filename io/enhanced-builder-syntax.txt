@@ -1,0 +1,4 @@
+EnhancedBuilder ul(
+	li({"author": "Me", "goodness": 10000}),
+	li("Lua"),
+	li({"banana": "split"}))
